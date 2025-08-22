@@ -7,9 +7,9 @@ The goal was not just to achieve high accuracy, but also to understand which hea
 
 ## Why This Project Matters
 
-**Healthcare relevance:** Heart disease is the world's leading cause of death. Predictive models can help identify at-risk individuals early and support clinical decision-making.
+**Healthcare relevance** - Heart disease is the world's leading cause of death. Predictive models can help identify at-risk individuals early and support clinical decision-making.
 
-**Employer relevance:** This project demonstrates my ability to:
+**Employer relevance** - This project demonstrates my ability to:
 - Translate complex datasets into actionable insights
 - Build, tune and evaluate machine learning models
 - Balance technical performance with interpretability and real-world usability
